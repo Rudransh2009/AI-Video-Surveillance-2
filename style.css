@@ -1,0 +1,40 @@
+body
+{
+background-size: cover;
+}
+
+.hedding
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+#start,#number_of_object,#start
+{
+    font-size: 23px;
+}
+
+#status,#number_of_object
+{
+  font-size: 18px;
+}
+
+.copy_right_footer
+{
+ position: fixed;   
+ color: chartreuse;
+ bottom: 0;
+ width: 100%;
+ background: darkblue;
+ line-height: 3;
+ text-align: center;
+}
+
+canvas
+{
+ border: 2px solid peachpuff;
+ border-radius: 10px;
+ margin-top: 130px;
+ box-shadow:5px 5px 5px skyblue;
+}
